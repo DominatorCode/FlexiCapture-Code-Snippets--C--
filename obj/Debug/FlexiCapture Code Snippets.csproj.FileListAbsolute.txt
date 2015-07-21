@@ -1,0 +1,22 @@
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\Interop.FCEngine.dll
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.csproj.ResolveComReference.cache
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\bin\Debug\FlexiCapture Code Snippets.exe
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\bin\Debug\FlexiCapture Code Snippets.pdb
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\bin\Debug\Interop.FCEngine.dll
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.csprojResolveAssemblyReference.cache
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\Sample.InputDialog.resources
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\Sample.MainForm.resources
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.csproj.GenerateResource.Cache
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.exe
+C:\ProgramData\ABBYY\SDK\10\FlexiCapture Engine\Samples\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.pdb
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\Interop.FCEngine.dll
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.csproj.ResolveComReference.cache
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.exe
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.pdb
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.csprojResolveAssemblyReference.cache
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\bin\Debug\FlexiCapture Code Snippets.exe
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\bin\Debug\FlexiCapture Code Snippets.pdb
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\bin\Debug\Interop.FCEngine.dll
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\Sample.InputDialog.resources
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\Sample.MainForm.resources
+D:\Users\seral\Documents\Visual Studio 2013\Projects\FlexiCapture Code Snippets (C#)\obj\Debug\FlexiCapture Code Snippets.csproj.GenerateResource.Cache
